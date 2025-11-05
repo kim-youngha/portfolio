@@ -4,7 +4,7 @@
   "description": "Product Manager | 0 to 1 Builder",
   "copyright": "© Youngha Kim All rights reserved.",
   "googleAnalyticsId": "G-3817629390",
-  "pathPrefix": "/portfolio",
+  "pathPrefix": "/works",
   "feedLimit": 4,
   "menu": [
     {

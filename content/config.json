@@ -1,10 +1,10 @@
 {
-  "title": "Hong Minji",
-  "url": "https://hong-minji.github.io/works",
-  "description": "Marketing × Design × AI. Building growth through creativity and community",
-  "copyright": "© Hong Minji All rights reserved.",
-  "googleAnalyticsId": "G-3Y28TK5MZ0",
-  "pathPrefix": "/works",
+  "title": "Youngha Kim",
+  "url": "https://kim-youngha.github.io/works",
+  "description": "Product Manager | 0 to 1 Builder",
+  "copyright": "© Youngha Kim All rights reserved.",
+  "googleAnalyticsId": "G-3817629390",
+  "pathPrefix": "/portfolio",
   "feedLimit": 4,
   "menu": [
     {
@@ -17,21 +17,17 @@
     }
   ],
   "author": {
-    "title": "Hong Minji",
-    "photo": "/profile.jpg",
-    "description": "Creative Marketer | AI Contents | Conference & Event Design | MODULABS Community",
+    "title": "Youngha Kim",
+    "photo": "/profile.png",
+    "description": "Product Manager | 0 to 1 Builder",
     "contacts": [
       {
         "name": "linkedin",
-        "contact": "hongminji"
-      },
-      {
-        "name": "instagram",
-        "contact": "hong.min.ji"
+        "contact": "youngha0315"
       },
       {
         "name": "email",
-        "contact": "minji.hong.mj@gmail.com"
+        "contact": "youngha0315@gmail.com"
       }
     ]
   }
